@@ -1,0 +1,25 @@
+# Secrets
+credentials.json
+.env
+
+# Runtime files
+*.log
+sync.log
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
